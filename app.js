@@ -76,8 +76,11 @@ async function init() {
         foodData = [
             { "id": 1, "title": "Classic Cheeseburger", "category": "burger", "price": 14.99, "rating": 4.8, "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80", "desc": "Juicy beef patty with melted cheddar." },
             { "id": 2, "title": "Margherita Pizza", "category": "pizza", "price": 18.50, "rating": 4.9, "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=500&q=80", "desc": "Fresh tomatoes, mozzarella, and basil." },
-            { "id": 3, "title": "Spicy Tuna Roll", "category": "sushi", "price": 12.00, "rating": 4.7, "img": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500&q=80", "desc": "Fresh tuna with spicy mayo." },
-            { "id": 4, "title": "Gourmet Mushroom Burger", "category": "burger", "price": 16.50, "rating": 4.6, "img": "mushroom_burger.png", "desc": "Truffle mayo, swiss cheese, roasted mushrooms." }
+            { "id": 4, "title": "Gourmet Mushroom Burger", "category": "burger", "price": 16.50, "rating": 4.6, "img": "mushroom_burger.png", "desc": "Truffle mayo, swiss cheese, roasted mushrooms." },
+            { "id": 5, "title": "Avocado Quinoa Bowl", "category": "salad", "price": 16.00, "rating": 4.5, "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=800&auto=format&fit=crop", "desc": "Organic quinoa, fresh sliced avocado, cherry tomatoes, and lemon-tahini dressing." },
+            { "id": 6, "title": "Mediterranean Salad", "category": "salad", "price": 15.50, "rating": 4.4, "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=800&auto=format&fit=crop", "desc": "Crisp romaine, kalamata olives, feta cheese, cucumber, and Greek vinaigrette." },
+            { "id": 7, "title": "Molten Chocolate Lava", "category": "dessert", "price": 9.50, "rating": 4.9, "img": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?q=80&w=800&auto=format&fit=crop", "desc": "Decadent chocolate cake with a warm gooey center, served with vanilla bean ice cream." },
+            { "id": 8, "title": "Classic Cheesecake", "category": "dessert", "price": 8.00, "rating": 4.6, "img": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?q=80&w=800&auto=format&fit=crop", "desc": "New York style cheesecake with a handmade graham cracker crust and berry compote." }
         ];
         restaurantData = [
             { "id": 101, "name": "Burger Joint", "rating": 4.7, "time": "15-25 min", "tags": "Burgers, Fast Food", "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&q=80" },
