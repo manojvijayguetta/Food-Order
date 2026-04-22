@@ -175,6 +175,24 @@
             "rating": 4.9,
             "desc": "Three scoops of authentic Italian gelato: Pistachio, Dark Chocolate, and Raspberry.",
             "img": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "id": 19,
+            "title": "Belgian Waffles",
+            "category": "dessert",
+            "price": 10.5,
+            "rating": 4.8,
+            "desc": "Crispy golden waffles topped with fresh berries, whipped cream, and maple syrup.",
+            "img": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+            "id": 20,
+            "title": "Multi-Flavor Ice Cream",
+            "category": "dessert",
+            "price": 8.5,
+            "rating": 4.7,
+            "desc": "A delightful assortment of chocolate, strawberry, and vanilla scoops.",
+            "img": "https://images.unsplash.com/photo-1563805042-7684c8e9e5cb?q=80&w=800&auto=format&fit=crop"
         }
     ],
     "restaurants": [
